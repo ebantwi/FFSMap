@@ -1,0 +1,22 @@
+{
+  "name": "route-lookup",
+  "label": "Route Lookup",
+  "type": "widget",
+  "version": "1.21.0",
+  "exbVersion": "1.21.0",
+  "author": "KYTC",
+  "description": "Cascading route lookup filter",
+  "copyright": "",
+  "license": "",
+  "properties": {},
+  "dependency": [
+    "jimu-arcgis"
+  ],
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 300,
+    "height": 420
+  }
+}
